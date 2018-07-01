@@ -1,5 +1,6 @@
 NUGET
   remote: https://www.nuget.org/api/v2
+    FAKE (5.1)
     FSharp.Core (4.5) - restriction: || (>= net461) (>= netstandard2.0)
     Giraffe (1.1)
       FSharp.Core (>= 4.2.3) - restriction: || (>= net461) (>= netstandard2.0)
